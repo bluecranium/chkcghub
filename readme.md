@@ -6,6 +6,8 @@
 * Conveniently, this same manifest can be used by CGHub's gtdownload program to do the actual downloading. The integrity can then be (re-)checked by using this script.
 
 ## Installation
+Python must be installed.
+
 Clone this repo and run the script from a BASH terminal to output usage information:
 
 	git clone git://github.com/bluecranium/chkcghub.git
